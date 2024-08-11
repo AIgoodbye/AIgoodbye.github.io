@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>carrier transport</a>. 
+subtitle: <a href='#'>Surface Science of Materials,Complex Alloy Materials,Material Computing Methods and Machine Learning</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>NJUST</p>
-    <p>NanJing CN</p>
+    <p>A.P NHMC NanJing University of Science & Technology</p>
+    <p>renj@njust.edu.cn</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
