@@ -14,13 +14,13 @@ profiles:
     content: about_leader.md
     image_circular: false # crops the image to make it circular
     more_info: >
-    <p>A.P JiChang Ren 任吉昌 </p>
-    align: left
+       <p>A.P JiChang Ren 任吉昌 </p>
+  - align: left
     content: about_ZhouJunJun.md
-    align: left
+  - align: left
     content: about_CaoGuoLin.md
-    align: left
+  - align: left
     content: about_HeShiYu.md
-    align: left
+  - align: left
     content: about_DengQingHong.md
 ---
