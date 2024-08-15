@@ -16,11 +16,15 @@ profiles:
     more_info: >
        <p>A.P JiChang Ren 任吉昌 </p>
   - align: left
+    image: ZhouJunJun_pic.jpg
     content: about_ZhouJunJun.md
   - align: left
+    image: CaoGuoLin_pic.jpg
     content: about_CaoGuoLin.md
   - align: left
+    image: HeShiYu_pic.jpg
     content: about_HeShiYu.md
   - align: left
+    image: DengQingHong.png
     content: about_DengQingHong.md
 ---
