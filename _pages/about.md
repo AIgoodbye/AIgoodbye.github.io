@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>A.P,NanJing University of Science&Technology</p>
+    <p>PI,NanJing University of Science&Technology</p>
     <p>renj@njust.edu.cn</p>
 
 news: true # includes a list of news items
