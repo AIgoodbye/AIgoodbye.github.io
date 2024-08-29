@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2018 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Jichang Ren joins Nanjing University of Science and Technology.
