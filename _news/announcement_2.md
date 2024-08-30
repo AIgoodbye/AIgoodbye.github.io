@@ -1,11 +1,11 @@
 ---
 layout: post
 date: 2015-11-07 16:11:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
-check whether 'title' is the key value. ❔
+check whether 'inline' is the key value. ❔
 
 ---
 
