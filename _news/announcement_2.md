@@ -1,12 +1,11 @@
 ---
 layout: post
-title: A long announcement with details
 date: 2015-11-07 16:11:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
-check whether 'inline' is the key value. ❔
+check whether 'title' is the key value. ❔
 
 ---
 
