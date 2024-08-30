@@ -14,7 +14,7 @@ profiles:
     content: about_leader.md
     image_circular: false # crops the image to make it circular
     more_info: >
-       <p>A.P JiChang Ren 任吉昌 </p>
+       <p>PI JiChang Ren 任吉昌 </p>
   - align: left
     image: ZhouJunJun_pic.jpg
     content: about_ZhouJunJun.md
